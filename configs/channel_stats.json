@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-04-14T17:24:27.186618",
+  "timestamp": "2025-04-14T18:19:56.658876",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/v2rayvpno",
@@ -16,8 +16,8 @@
     {
       "url": "https://t.me/s/ZibaNabz",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/configV2rayForFree",
@@ -46,8 +46,8 @@
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/VlessConfig",
@@ -58,8 +58,8 @@
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     }
   ]
 }
